@@ -1,16 +1,24 @@
-# flutter_transform
+# **Tugas Pertemuan 27**
+## **Project flutter_transform**
 
-A new Flutter project.
+### Praktikum 1 : Tambahkan kode Transform
+* Menambahkan code transform pada main.dart
+![Screenshot flutter_transform](images/01.png)
 
-## Getting Started
+* Run project
+![Screenshot flutter_transform](images/02.png)
+### Praktikum 2 : Perspective on Flutter
+* menambahkan Transform widget dan GestureDetector widget
+![Screenshot flutter_transform](images/03.png)
+![Screenshot flutter_transform](images/04.png)
 
-This project is a starting point for a Flutter application.
+* Run Project
+![Screenshot flutter_transform](images/05.gif)
+### Praktikum 3 : Make 3D flip animation
+* Menambahkan code dibawah ini pada file main.dart
+![Screenshot flutter_transform](images/06.png)
+![Screenshot flutter_transform](images/07.png)
 
-A few resources to get you started if this is your first Flutter project:
+* Hasil Run Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot flutter_transform](images/08.gif)
